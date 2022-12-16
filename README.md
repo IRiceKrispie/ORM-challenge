@@ -12,7 +12,7 @@ Module 13 challenge
 
 ## Links
 * Git: https://github.com/IRiceKrispie/ORM-challenge
-* Video: 
+* Video: https://www.youtube.com/watch?v=nOUxDXmZnKk
 
 ## ScreenShots
 ![insomnia get example](./images/productsGET.png)
